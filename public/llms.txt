@@ -1,0 +1,79 @@
+# קלין מאסטר — Generative Engine Optimization Map
+
+> A professional cleaning service specializing in air conditioner cleaning, sofa cleaning, and mattress cleaning, with 10 years of hands-on experience. The business emphasizes professionalism, immediate availability, and the health and hygiene benefits of deep cleaning. Key selling points include expertise, reliability, and fast response times — positioning the brand as a trusted home care solution.
+
+---
+
+## Pages
+
+### בית
+https://-6f210957.zappy5.app
+קלין מאסטר מביאים 10 שנות ניסיון בניקוי מזגנים, ספות ומזרנים ישירות אליכם. שירות מיידי, יסודי ובריא לסביבה ביתית נקייה. התקשרו עכשיו!
+
+### תודה שפניתם | קלין מאסטר
+https://-6f210957.zappy5.app/thank-you
+קלין מאסטר - תודה שפניתם | קלין מאסטר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6f210957.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6f210957.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6f210957.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-6f210957.zappy5.app
+- Endpoint: https://-6f210957.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קלין מאסטר
+A professional cleaning service specializing in air conditioner cleaning, sofa cleaning, and mattress cleaning, with 10 years of hands-on experience. The business emphasizes professionalism, immediate availability, and the health and hygiene benefits of deep cleaning. Key selling points include expertise, reliability, and fast response times — positioning the brand as a trusted home care solution.
+
+## Services/Products
+- ניקוי מזגנים
+- ניקוי ספות
+- ניקוי מזרנים
+
+## Target Audience
+- בעלי בתים משפחתיים
+- בעלי חיות מחמד
+- תושבי דירות עירוניות
+- קשישים החיים באופן עצמאי
+- סוכני נדל"ן
+- משפחות
+- אלרגניים
+
+## Industry
+Cleaning Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6f210957.zappy5.app/sitemap.xml
+- Robots: https://-6f210957.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6f210957.zappy5.app/llms-full.txt
