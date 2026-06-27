@@ -2,13 +2,13 @@
 
 A professional cleaning service specializing in air conditioner cleaning, sofa cleaning, and mattress cleaning, with 10 years of hands-on experience. The business emphasizes professionalism, immediate availability, and the health and hygiene benefits of deep cleaning. Key selling points include expertise, reliability, and fast response times — positioning the brand as a trusted home care solution.
 
-Source: https://-6f210957.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ניקיון מקצועי לבית — קלין מאסטר
 
-URL: https://-6f210957.zappy5.app
+URL: https://example.com
 Description: קלין מאסטר מביאים 10 שנות ניסיון בניקוי מזגנים, ספות ומזרנים ישירות אליכם. שירות מיידי, יסודי ובריא לסביבה ביתית נקייה. התקשרו עכשיו!
 
 ניקיון מקצועי לבית — קלין מאסטר
@@ -822,7 +822,7 @@ Description: קלין מאסטר מביאים 10 שנות ניסיון בניק�
 
 ## מדיניות פרטיות
 
-URL: https://-6f210957.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1086,7 +1086,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-6f210957.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1359,7 +1359,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-6f210957.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1651,7 +1651,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם | קלין מאסטר
 
-URL: https://-6f210957.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: קלין מאסטר - תודה שפניתם | קלין מאסטר
 
 תודה שפניתם | קלין מאסטר
